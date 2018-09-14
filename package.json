@@ -1,5 +1,5 @@
 {
-  "name": "redux-saga-chat",
+  "name": "chat",
   "description": "A chat using redux-saga and Socket.IO.",
   "repository": {
     "type": "git",

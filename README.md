@@ -8,8 +8,8 @@ Clone code from [github](https://github.com/happy86interia/chat.git) and install
 To use koa-socket, Please make sure that you're using Node.js v4 or later.
 
 ```
-git clone
-cd redux-saga-chat
+git clone https://github.com/happy86interia/chat.git
+cd chat
 npm install
 ```
 
